@@ -17,3 +17,5 @@ cd BrainStat
 python3 setup.py build
 python3 setup.py install --user
 ```
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sheyma/ohbm-handson-test2/HEAD)
