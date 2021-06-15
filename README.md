@@ -8,6 +8,10 @@ Almost all researchers have data and analysis scripts that generate results in t
 We’ll start with helping others run your code on their machines, and end up with a fully reproducible workflow
 
 ```
+$ pip install -r requirements.txt
+```
+
+```
 $ python3 code/analyis_01.py
 
 ```
