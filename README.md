@@ -8,14 +8,6 @@ Almost all researchers have data and analysis scripts that generate results in t
 We’ll start with helping others run your code on their machines, and end up with a fully reproducible workflow
 
 ```
-pip install -r requirements.txt
+$ python3 code/analyis_01.py
 
 ```
-
-```git clone https://github.com/MICA-MNI/BrainStat.git
-cd BrainStat
-python3 setup.py build
-python3 setup.py install --user
-```
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sheyma/ohbm-handson-test2/HEAD)
